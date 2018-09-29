@@ -1,0 +1,5 @@
+
+
+To install Jupyter notebooks in a conda environment:
+
+conda install jupyter notebook.
